@@ -197,7 +197,7 @@ If your heater is off and you start with a set-command or with an input at the C
 | service/truma/control_status/aircon_vent_mode| low, mid, high, night, auto | aircon ventilator mode|
 | service/truma/control_status/target_temp_aircon| temperature in °C (20 - 32°C)| show target aircon temp|
 | service/truma/control_status/operating_status| 0 - 7| TRUMA heater operation-mode (0,1 = off / 7 = running)|
-| service/truma/control_status/error_code| 0-xx| TRUMA error codes|
+| service/truma/control_status/error_code| 0-xx| TRUMA error codes (17 = no gas)|
 | service/truma/control_status/release| xx.xx.xx| Software-Release-No|
 
 
